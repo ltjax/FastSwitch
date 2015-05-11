@@ -1,0 +1,9 @@
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\bin\Debug\SwitchFiles_IntegrationTests.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\bin\Debug\SwitchFiles_IntegrationTests.pdb
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\bin\Debug\SwitchFiles.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\bin\Debug\SwitchFiles.pdb
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.pdb
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\obj\Debug\SwitchFiles_IntegrationTests.csprojResolveAssemblyReference.cache
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\obj\Debug\SwitchFiles_IntegrationTests.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_IntegrationTests\obj\Debug\SwitchFiles_IntegrationTests.pdb

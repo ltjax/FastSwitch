@@ -1,0 +1,10 @@
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\bin\Debug\SwitchFiles_UnitTests.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\bin\Debug\SwitchFiles_UnitTests.pdb
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\bin\Debug\Microsoft.VSSDK.UnitTestLibrary.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\bin\Debug\SwitchFiles.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\bin\Debug\SwitchFiles.pdb
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\bin\Debug\Microsoft.VSSDK.TestHostFramework.pdb
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\obj\Debug\SwitchFiles_UnitTests.csprojResolveAssemblyReference.cache
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\obj\Debug\SwitchFiles_UnitTests.dll
+c:\users\elvert.volumegraphics\documents\visual studio 2013\Projects\SwitchFiles\SwitchFiles\SwitchFiles_UnitTests\obj\Debug\SwitchFiles_UnitTests.pdb
